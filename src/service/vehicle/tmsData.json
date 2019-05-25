@@ -1,0 +1,20 @@
+[
+    {
+        "vhc_tms_id": 0,
+        "vhc_tms_name": "Tất cả"
+    },
+    {
+        "vhc_tms_id": 1,
+        "vhc_tms_name": "Số tự động",
+        "vhc_tms_name_en": "AT",
+        "vhc_tms_slug": "so-tu-dong",
+        "vhc_type_id": 1
+    },
+    {
+        "vhc_tms_id": 2,
+        "vhc_tms_name": "Số sàn",
+        "vhc_tms_name_en": "MT",
+        "vhc_tms_slug": "so-san",
+        "vhc_type_id": 1
+    }
+]

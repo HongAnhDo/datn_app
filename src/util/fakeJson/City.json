@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "city_id": 1,
+            "city_code": "HNI",
+            "city_name": "Hà Nội",
+            "city_name_en": "Hanoi"
+        },
+        {
+            "city_id": 2,
+            "city_code": "HCM",
+            "city_name": "TP. Hồ Chí Minh",
+            "city_name_en": "Ho Chi Minh City"
+        },
+        {
+            "city_id": 3,
+            "city_code": "DNG",
+            "city_name": "Đà Nẵng",
+            "city_name_en": "Da Nang"
+        },
+        {
+            "city_id": 4,
+            "city_code": "PQC",
+            "city_name": "Phú Quốc",
+            "city_name_en": "Phu Quoc"
+        },
+        {
+            "city_id": 5,
+            "city_code": "NTG",
+            "city_name": "Nha Trang",
+            "city_name_en": "Nha Trang"
+        },
+        {
+            "city_id": 6,
+            "city_code": "QYN",
+            "city_name": "Quy Nhơn",
+            "city_name_en": "Quy Nhon"
+        },
+        {
+            "city_id": 7,
+            "city_code": "SPA",
+            "city_name": "Sapa (Lào Cai)",
+            "city_name_en": "Sapa (Lao Cai)"
+        },
+        {
+            "city_id": 8,
+            "city_code": "VTU",
+            "city_name": "Vũng Tàu",
+            "city_name_en": "Vung Tau"
+        },
+        {
+            "city_id": 9,
+            "city_code": "HPG",
+            "city_name": "Hải Phòng",
+            "city_name_en": "Hai Phong"
+        },
+        {
+            "city_id": 10,
+            "city_code": "BDG",
+            "city_name": "Bình Dương",
+            "city_name_en": "Binh Duong"
+        },
+        {
+            "city_id": 11,
+            "city_code": "NBH",
+            "city_name": "Ninh Bình",
+            "city_name_en": "Ninh Binh"
+        },
+        {
+            "city_id": 12,
+            "city_code": "DLT",
+            "city_name": "Đà Lạt",
+            "city_name_en": "Da Lat"
+        }
+    ]
+}
